@@ -1,5 +1,5 @@
 # Meu Primeiro Repositorio
 
-![./laserboat.jpg](Laser)
+![Laser](laserboat.jpg)
 
 Este repositório é um exemplo para o curso de Git e GitHub.
